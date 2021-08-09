@@ -1,1 +1,2 @@
-
+Link to the Layer 1 address : "https://explorer.nervos.org/aggron/address/ckt1qyqy8cz7hv8ngsmkgk6k7d4jvlprer3nu7rq0naujs"
+Link to the transaction ID : "https://explorer.nervos.org/aggron/transaction/0x7dccff5c25d56c3215c6e19f6ff97db25ef584c503651528761b4e07be718415"
