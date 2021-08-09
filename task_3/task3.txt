@@ -1,1 +1,35 @@
-
+transaction_hash = '0x5083df3b2a0f05e85b68720dfd7138deb03a78579c92c609778988e006a0f9bf'
+CONTRACT_ADDRESS = '0x4DB74A4911a804eab9F7386A83a107bE7c6E839a'
+CONTRACT_ABI = [
+    {
+      "inputs": [],
+      "stateMutability": "payable",
+      "type": "constructor"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "x",
+          "type": "uint256"
+        }
+      ],
+      "name": "set",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "get",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ]
